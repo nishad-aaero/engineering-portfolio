@@ -1,20 +1,18 @@
 # Engineering-portfolio 
-Nishad Kumar Pokharel
-
+## Nishad Kumar Pokharel
 Aerospace Engineering | Mechanical Design | Simulation | Engineering Automation
 
-# About Me
+## About Me
 
 I am an Aircraft Manufacturing Engineering graduate with an academic background in aerospace engineering, mechanical design and aircraft maintenance. My technical interests include CAD modelling, finite element analysis (FEA), computational fluid dynamics (CFD), manufacturing engineering and engineering automation. This repository documents my engineering projects, technical experiments, software development and continuous learning.
 
-# Technical Skills
+## Technical Skills
+- **CAD**: CATIA V5
+- **Simulation**: ANSYS Mechanical, ANSYS Fluent
+- **Programming**: Python, MATLAB, C/C++, VBA
+- **Engineering**: Mechanical design, structural analysis, CFD, manufacturing and automation
 
-CAD: CATIA V5
-Simulation: ANSYS Mechanical, ANSYS Fluent
-Programming: Python, MATLAB, C/C++, VBA
-Engineering: Mechanical design, structural analysis, CFD, manufacturing and automation
-
-# Engineering Projects
+## Engineering Projects
 
 Projects will be added as they are completed and validated.
 1. Aircraft Landing Gear – Structural Analysis
@@ -22,9 +20,9 @@ Projects will be added as they are completed and validated.
 3. Lightweight Aerospace Bracket – Design Optimization
 4. CATIA V5 – Automated Engineering Drawing Generation
 
-# Certifications and Professional Development
+## Certifications and Professional Development
 
 This section will contain verified certifications, course-completion credentials and relevant technical training.
 
-# Contact
+## Contact
 GitHub: https://github.com/Nishad-aaero
