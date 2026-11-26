@@ -21,7 +21,7 @@ The objective was to develop a dimensionally defined mechanical component and pr
 ## 3. Shaft Geometry
 
 | Section | Diameter | Length |
-|---|---:|---:|
+|---|---|---|
 | 1 | 10 mm | 12 mm |
 | 2 | 15.5 mm | 16 mm |
 | 3 | 19 mm | 20 mm |
