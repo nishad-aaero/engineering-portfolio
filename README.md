@@ -1,4 +1,5 @@
-# Engineering-portfolio | Nishad Kumar Pokharel
+# Engineering-portfolio 
+# |Nishad Kumar Pokharel
 Aerospace Engineering | Mechanical Design | Simulation | Engineering Automation
 
 # About Me
